@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AYXML_Example' do
+  pod 'AYXML', :path => '../'
+
+  target 'AYXML_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

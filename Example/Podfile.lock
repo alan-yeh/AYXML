@@ -1,0 +1,16 @@
+PODS:
+  - AYXML (1.0.0)
+
+DEPENDENCIES:
+  - AYXML (from `../`)
+
+EXTERNAL SOURCES:
+  AYXML:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AYXML: a1235cb1231093d3affbbcb4d436eacb162cd4c5
+
+PODFILE CHECKSUM: f93d43c0fdedf9add5bd1246987f2f1ad9910bac
+
+COCOAPODS: 1.0.0
